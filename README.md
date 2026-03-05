@@ -10,13 +10,13 @@ Un site web interactif en pur HTML/CSS/JS — aucune dépendance, aucun framewor
 
 ## 🚀 Demo
 
-👉 [Voir le site](https://killianpiccerelle.github.io/Javascript-cours-complet-/)
+👉 [Voir le site](https://killianpiccerelle.github.io/Javascript-cours-complet/)
 
 ## 📦 Installation
 
 Aucune installation requise. Clone le repo et ouvre `index.html` dans ton navigateur :
 
-git clone https://github.com/TONPSEUDO/NOM-DU-REPO.git
+git clone https://github.com/KillianPiccerelle/Javascript-cours-complet.git
 
 ## 🗂️ Structure
 
